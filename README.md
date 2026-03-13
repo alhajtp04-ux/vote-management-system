@@ -61,6 +61,9 @@ Add login authentication
 Improve UI design
 
 Deploy online
+## Dashboard Preview
+
+![Voting Dashboard](screenshots/voting_dashboard.png)
 
 ##👨‍💻 Author
 
