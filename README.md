@@ -63,7 +63,7 @@ Improve UI design
 Deploy online
 ## Dashboard Preview
 
-![Voting Dashboard](https://github.com/alhajtp04-ux/vote-management-system/tree/main/vote)
+![Voting Dashboard](https://github.com/alhajtp04-ux/vote-management-system/blob/main/vote/Screenshot%202026-03-13%20142536.png)
 
 
 ##👨‍💻 Author
